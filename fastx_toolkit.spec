@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.perl
 Summary:	The FASTX-Toolkit is a collection of command line tools for Short-Reads FASTA/FASTQ files preprocessing
 #Summary(pl.UTF-8):	-
 Name:		fastx_toolkit
