@@ -1,12 +1,12 @@
 Summary:	The FASTX-Toolkit is a collection of command line tools for Short-Reads FASTA/FASTQ files preprocessing
 #Summary(pl.UTF-8):	-
 Name:		fastx_toolkit
-Version:	0.0.13
+Version:	0.0.14
 Release:	1
 License:	AGPL v3
 Group:		Applications/Science
-Source0:	http://hannonlab.cshl.edu/fastx_toolkit/%{name}-%{version}.tar.bz2
-# Source0-md5:	6d233ff4ae3d52c457d447179f073a56
+Source0:	https://github.com/agordon/fastx_toolkit/releases/download/%{version}/%{name}-%{version}.tar.bz2
+# Source0-md5:	bf1993c898626bb147de3d6695c20b40
 URL:		http://hannonlab.cshl.edu/fastx_toolkit/index.html
 BuildRequires:	libgtextutils-devel
 BuildRequires:	perl-devel >= 1:5.8.0
